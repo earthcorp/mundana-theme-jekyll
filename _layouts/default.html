@@ -30,10 +30,6 @@
 
     {% include tracking-header.html %}
 
-    {% if jekyll.environment == 'production' %}
-    {% include analytics.html %}
-    {% endif %}
-
 </head>
 
 <body class="{% if page.url == "/" %} homefirstpage {% endif %}">
