@@ -8,6 +8,8 @@ disqus: 'demowebsite'
 email: 'ayodhyalive@gmail.com'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 
+google_analytics: UA-171605104-2
+
 include: ["_pages"]
 permalink: /:title/
 
