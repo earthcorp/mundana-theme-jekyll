@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 14 अक्‍टूबर से शुरू होगी फिल्‍मी कलाकरों की रामलीला
+title: 14 से शुरू होगी रामलीला
 author: sal
 categories:
   - Jekyll
