@@ -1,8 +1,10 @@
 ---
 layout: post
-title:  "What is Jekyll"
+title: "रामायण का  प्रसारण 45 से "
 author: jane
-categories: [ Jekyll, tutorial ]
+categories:
+  - Jekyll
+  - tutorial
 image: assets/images/11.jpg
 ---
 
