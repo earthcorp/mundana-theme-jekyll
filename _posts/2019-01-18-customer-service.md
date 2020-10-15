@@ -1,11 +1,9 @@
 ---
 layout: post
-title: "रामायण का  प्रसारण 45 से "
+title: "रामायण का  प्रसारण 14 से "
 author: jane
-categories:
-  - Jekyll
-  - tutorial
-image: /assets/images/banner.jpg
+categories: Jekyll tutorial
+image: /assets/images/demo1.jpg
 date: 2020-10-15T15:16:27.167Z
 ---
 
