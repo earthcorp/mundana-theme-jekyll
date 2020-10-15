@@ -2,9 +2,7 @@
 layout: post
 title: Could we reinvent the charm of old cities
 author: jane
-categories:
-  - Jekyll
-  - tutorial
+categories: Ayodhyalive
 image: /assets/images/banner.jpg
 tags:
   - sticky
