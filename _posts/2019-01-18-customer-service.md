@@ -5,7 +5,7 @@ author: jane
 categories:
   - Jekyll
   - tutorial
-image: /assets/images/banner.jpg
+image: assets/images/demo1.jpg
 date: 2020-10-15T15:16:27.167Z
 ---
 
