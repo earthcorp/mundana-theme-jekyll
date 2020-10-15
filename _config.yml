@@ -17,6 +17,13 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-seo-tag
+
+jekyll_admin:
+  hidden_links:
+    - staticfiles
+    - datafiles
+    - configuration
+    - pages
   
 authors:
     sal:
