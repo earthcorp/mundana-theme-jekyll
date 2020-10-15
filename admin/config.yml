@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: your-github-login/your-repo-name
+  repo: earthcorp/mundana-theme-jekyll
   branch: master
   site_domain: ayodhyalive.com
 media_folder: "images/uploads"
