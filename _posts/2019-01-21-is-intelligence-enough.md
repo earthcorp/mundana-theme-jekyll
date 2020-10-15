@@ -2,9 +2,7 @@
 layout: post
 title: Is Intelligence Enough
 author: sal
-categories:
-  - Jekyll
-  - tutorial
+categories: Jekyll tutorial
 image: /images/uploads/banner.jpg
 date: 2020-10-15T15:25:52.097Z
 ---
