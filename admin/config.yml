@@ -1,5 +1,5 @@
 backend:
-  name: git-gateway
+  name: github
   repo: earthcorp/mundana-theme-jekyll
   branch: master
   site_domain: ayodhyalive.com
