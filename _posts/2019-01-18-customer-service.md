@@ -3,7 +3,7 @@ layout: post
 title: हगद तकहगर हगरपक कतदर
 author: jane
 categories: Jekyll tutorial
-image: /images/uploads/05faz3.jpg
+image: images/uploads/05faz3.jpg
 date: 2020-10-15T15:16:27.167Z
 ---
 
