@@ -2,7 +2,7 @@
 layout: post
 title: आठ चक्रों और नौ द्वारों वाली स्वर्गिक नगरी
 author: jane
-categories: List [ "Jekyll", "tutorial" ]
+categories: Jekyll tutorial
 image: assets/images/banner.jpg
 tags:
   - sticky
