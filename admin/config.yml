@@ -1,8 +1,9 @@
 backend:
-  name: github
+  name: git-gateway
   repo: earthcorp/mundana-theme-jekyll
   branch: master
   site_domain: ayodhyalive.com
+  publish_mode: editorial_workflow
   
   media_folder: "images/uploads"
   
