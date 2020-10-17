@@ -22,7 +22,7 @@ authors:
     ayodhyalive:
       name:           Ayodhyalive
       site:           https://www.ayodhyalive.com
-      avatar:         assets/images/avatar1.png
+      avatar:         assets/images/avatar1.jpg
       bio:            "Hi, I am Ayodhyalive, the author of Portal, the theme you're currently previewing. I hope you like it!"
       email:          ayodhyalive@gmail.com
       twitter:        https://twitter.com/ayodhyalive
@@ -36,7 +36,7 @@ defaults:
     values:
       layout: post
       author: ayodhyalive
-      avatar: assets/images/avatar1.png
+      avatar: assets/images/avatar1.jpg
       
   # all pages
   - scope:
