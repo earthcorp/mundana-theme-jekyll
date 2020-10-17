@@ -19,10 +19,10 @@ plugins:
   - jekyll-seo-tag
 
 authors:
-    sal:
+    ayodhyalive:
       name:           Ayodhyalive
       site:           https://www.ayodhyalive.com
-      avatar:         /assets/images/avatar1.png
+      avatar:         assets/images/avatar1.png
       bio:            "Hi, I am Ayodhyalive, the author of Portal, the theme you're currently previewing. I hope you like it!"
       email:          ayodhyalive@gmail.com
       twitter:        https://twitter.com/ayodhyalive
@@ -35,8 +35,8 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: sal
-      avatar: /assets/images/avatar1.jpg
+      author: ayodhyalive
+      avatar: assets/images/avatar1.png
       
   # all pages
   - scope:
