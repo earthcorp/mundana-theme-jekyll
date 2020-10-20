@@ -1,7 +1,7 @@
 ---
 layout: post
 title: आठ चक्रों और नौ द्वारों वाली स्वर्गिक नगरी
-author: jane
+author: ayodhyalive
 categories: Ayodhyalive
 image: assets/images/banner.jpg
 tags:
