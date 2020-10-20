@@ -1,7 +1,7 @@
 ---
 layout: post
 title: रामलीला का होगा लाइव प्रसारण
-author: sal
+author: ayodhyalive
 categories: Jekyll tutorial
 image: images/uploads/15faz037.jpg
 date: 2020-10-15T15:25:52.097Z
