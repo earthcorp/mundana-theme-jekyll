@@ -653,7 +653,7 @@ footer {
 }
 article {
 	font-size:20px;
-	line-height:1.86;
+	line-height:1.45;
     font-family:"Poppins";
 }
 .article-headline {
@@ -674,7 +674,7 @@ article blockquote {
 }
 article blockquote:before {
 	content:"“";
-	font-family:"Poppins";
+	font-family: sans-serif;
 	font-size:8rem;
 	margin:-1rem 2rem 0 -3.9rem;
 	position:absolute;
