@@ -1,7 +1,7 @@
 ---
 layout: post
 title: आस्था की पवन नगरी अयोध्या
-image: assets/images/rampadi.png
+image: images/uploads/rampadi.png
 categories: Ayodhyalive
 date: 2020-10-15T15:27:49.003Z
 ---
