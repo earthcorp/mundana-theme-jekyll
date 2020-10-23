@@ -1,6 +1,6 @@
 # Site
-name: 'Ayodhya Live'
-description: 'Special information about the birthplace of Lord Shri Ram so far.'
+name: 'अयोध्या लाइव'
+description: 'भगवान श्रीराम के जन्मस्थान के बारे में अब तक की विशेष जानकारियां'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.png'
 baseurl: ''
@@ -20,10 +20,10 @@ plugins:
 
 authors:
     ayodhyalive:
-      name:           Ayodhyalive
+      name:           अयोध्या लाइव
       site:           https://www.ayodhyalive.com
       avatar:         assets/images/avatar1.jpg
-      bio:            "Hi, I am Ayodhyalive, the author of Portal, the theme you're currently previewing. I hope you like it!"
+      bio:            "नमस्ते, मैं पोर्टल का लेखक, वर्तमान में आप पूर्वावलोकन कर रहे हैं। मुझे आशा है की आप इसे पसंद करेंगे!"
       email:          ayodhyalive@gmail.com
       twitter:        https://twitter.com/ayodhyalive
  
