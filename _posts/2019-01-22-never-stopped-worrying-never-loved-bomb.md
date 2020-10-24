@@ -2,7 +2,7 @@
 layout: post
 title:  "Never stopped worrying or loving the bomb"
 author: ayodhyalive
-categories: [ Jekyll ]
+categories: Social
 image: assets/images/14.jpg
 tags: featured
 ---

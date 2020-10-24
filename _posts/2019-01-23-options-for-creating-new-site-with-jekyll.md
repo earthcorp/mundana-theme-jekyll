@@ -2,7 +2,7 @@
 layout: post
 title:  "Options for creating a new site with Jekyll"
 author: ayodhyalive
-categories: [ Jekyll, tutorial ]
+categories: Social
 image: assets/images/13.jpg
 ---
 
