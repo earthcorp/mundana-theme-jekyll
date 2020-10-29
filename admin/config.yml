@@ -34,8 +34,8 @@ collections:
       - {label: "Draft", name: "draft", widget: "boolean", default: false}
       - {label: "Cover Image", name: "image", widget: "image", required: false}
       - {label: "Publish Date", name: "date", widget: "datetime", date_format: "DD-MM-YYYY", time_format: "HH:mm", format: "DD-MM-YYYY HH:mm"}
-      - {label: "Description", name: "description", widget: "text"}
       - {label: "Category", name: "categories", widget: "string"}
+      - {label: "Description", name: "description", widget: "text"}
       - {label: "Body", name: "body", widget: "markdown", hint: "Main content goes here."}
       - {label: "Tags", name: "tags", widget: "list"}
   - name: "pages"
