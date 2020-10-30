@@ -6,7 +6,6 @@ backend:
   site_domain: ayodhyalive.com
 publish_mode: editorial_workflow
 media_folder: images/uploads
-public_folder: /media
 
 collections:
   - name: "post" # Used in routes, e.g. /admin/collections/blog
