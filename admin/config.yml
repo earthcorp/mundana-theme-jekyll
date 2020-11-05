@@ -3,7 +3,7 @@ backend:
   branch: master
   repo: earthcorp/mundana-theme-jekyll
 media_folder: "assets/images"
-media_folder: "/images/uploads"
+public_folder: "/images/uploads"
 
 collections:
   - name: "posts"
