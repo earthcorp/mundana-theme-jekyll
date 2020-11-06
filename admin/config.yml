@@ -1,20 +1,16 @@
 backend:
-  name: git-gateway
-  branch: master
+  name: github
   repo: earthcorp/mundana-theme-jekyll
-  media_folder: "images/uploads"
-  publish_mode: editorial_workflow
-
+  branch: master
+  site_domain: ayodhyalive.com
+media_folder: "images/uploads"
 collections:
-  - name: "post"
-    label: "Post"
-    folder: "_posts/"
+  - name: "post" # Used in routes, e.g. /admin/collections/blog
+    label: "Post" # Used in the UI
+    folder: "_posts" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
-    editor:
-      preview: false
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template i.e. YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
-      - { label: "Layout", name: "layout", widget: "hidden", default: "post" }
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Publish Date", name: "date", widget: "datetime" }
-      - { label: "Body", name: "body", widget: "markdown" }
+      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
