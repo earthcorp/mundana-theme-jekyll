@@ -12,28 +12,7 @@ media_folder: "/images/uploads"
 site_url: https://ayodhyalive.com
 logo_url: https://ayodhyalive.com/assets/images/logo.png
   
-collections:
-  - label: "Sitewide Options"
-    name: options
-    editor:
-      preview: false
-    files:
-      - label: "Navigation Menu"
-        name: nav
-        file: "_data/nav.yml"
-        fields:
-          - label: "Nav Items"
-            label_singular: "Nav Item"
-            name: topLevelItems
-            widget: list
-            fields:
-              - {label: "Display Text", name: displayText, widget: string}
-              - {label: URL, name: url, widget: string}
-              - label: "Item Type"
-                name: itemType
-                widget: select
-                options: ["Link", "Button"]
-                
+collections:                
    - name: "post" # Used in routes, e.g., /admin/collections/blog
     label: "Post" # Used in the UI
     folder: "_posts" # The path to the folder where the documents are stored
