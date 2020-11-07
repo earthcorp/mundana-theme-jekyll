@@ -3,7 +3,7 @@ backend:
   branch: master
   repo: earthcorp/mundana-theme-jekyll
   identity_url: "https://www.ayodhyalive.com/.netlify/identity"
-  gateway_url: "https://github.com/earthcorp/mundana-theme-jekyll"
+  gateway_url: "https://www.ayodhyalive.com/.netlify/git"
   squash_merges: true
   
 publish_mode: editorial_workflow
