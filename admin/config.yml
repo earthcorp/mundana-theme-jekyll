@@ -7,7 +7,7 @@ backend:
   squash_merges: true
   
 publish_mode: editorial_workflow
-media_folder: "/images/uploads"
+media_folder: "images/uploads"
 
 site_url: https://ayodhyalive.com
 logo_url: https://ayodhyalive.com/assets/images/logo.png
