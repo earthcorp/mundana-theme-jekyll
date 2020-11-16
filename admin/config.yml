@@ -7,7 +7,7 @@ backend:
   squash_merges: true
   
 publish_mode: editorial_workflow
-media_folder: "images/uploads"
+media_folder: "/images/uploads"
 
 site_url: https://ayodhyalive.com
 logo_url: https://ayodhyalive.com/assets/images/logo.png
@@ -24,6 +24,6 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Featured Image", name: "thumbnail", widget: "image"}
-      - {label: "Category", name: "category", widget: "string", default: "jekyll"}
+      - {label: "Category", name: "category", widget: "string", default: "अयोध्या लाइव"}
       - {label: "Summary", name: "summary", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
